@@ -2,7 +2,7 @@
 Bivariate polynomial interpolation on the nodes of Lissajous curves
 --------------------------------------------------------------------------------
 
-<img src="img/testfun1.jpg" width="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2D.jpg" width="350"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/testfun1.jpg" width="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2D.jpg" width="350"> 
 
 Version: 0.2 (01.05.2016)
 
@@ -13,7 +13,7 @@ Description
 -----------
 
 The package LS2Ditp contains a Matlab-implementation for 2D polynomial interpolation on 
-the node points LS of degenerate and non-degenerate 2D-Lissajous curves. See [3] for
+the node points LS of degenerate and non-degenerate 2D-Lissajous curves. Have a look at [3] for
 the theoretical description of the Lissajous curves, the point sets LS and
 the polynomial interpolation scheme. 
 
@@ -38,15 +38,17 @@ The following people contributed to the development and the theory of this code:
 
 For non-degenerate Lissajous curves, the theory and the interpolation scheme were developed in:
 
-1)  Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. 
-    Bivariate Lagrange interpolation at the node points of non-degenerate Lissajous curves. 
+
+1.  Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. <br>
+    <i>Bivariate Lagrange interpolation at the node points of non-degenerate Lissajous curves </i> <br>
     Numer. Math. 133, 4 (2016), 685-705
+
     
 For degenerate Lissajous curves, the respective results can be found in:
 
-[2] Erb, W. 
-    Bivariate Lagrange interpolation at the node points of Lissajous curves - the degenerate case, 
-    Appl. Math. Comput. 289 (2016) 409-425
+2.  Erb, W. <br>
+    <i> Bivariate Lagrange interpolation at the node points of Lissajous curves - the degenerate case </i> 
+    Appl. Math. Comput. 289 (2016), 409-425
 
 The results of these two papers are summarized in:
 
