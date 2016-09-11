@@ -1,5 +1,5 @@
 # LS2Ditp
-Bivariate polynomial interpolation on the nodes of Lissajous curves
+Bivariate polynomial interpolation on the node points of Lissajous curves
 --------------------------------------------------------------------------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/testfun1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2Da.jpg" width="350"> 
