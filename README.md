@@ -87,7 +87,7 @@ License
 Copyright (C) 2016 Wolfgang Erb
 
 This software was written by Wolfgang Erb 
-and developed at the Institute of Mathematics, University of Luebeck.
+and developed at the University of Luebeck.
 
 LS2Ditp is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
