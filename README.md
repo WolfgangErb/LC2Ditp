@@ -12,10 +12,10 @@ Written by <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 Description
 -----------
 
-The package LS2Ditp contains a Matlab-implementation for 2D polynomial interpolation on 
-the node points LS of degenerate and non-degenerate 2D-Lissajous curves. Have a look at [3] for
-the theoretical description of the Lissajous curves, the point sets LS and
-the polynomial interpolation scheme. 
+The package LS2Ditp contains a Matlab-implementation for bivariate polynomial interpolation on 
+the node points LS of degenerate as well as non-degenerate 2D-Lissajous curves. 
+The theoretical description of the Lissajous curves, the point sets LS and
+the polynomial interpolation scheme is summarized in the survey article [3]. 
 
 The main test file for interpolation is
 main_example.m
