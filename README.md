@@ -2,7 +2,7 @@
 Bivariate polynomial interpolation on the nodes of Lissajous curves
 --------------------------------------------------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2D.jpg" width="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="img/testfun1.jpg" width="370">
+<img src="img/testfun1.jpg" width="350"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2D.jpg" width="350"> 
 
 Version: 0.2 (01.05.2016)
 
@@ -38,7 +38,7 @@ The following people contributed to the development and the theory of this code:
 
 For non-degenerate Lissajous curves, the theory and the interpolation scheme were developed in:
 
-*   [1]  Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. 
+1)  Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. 
     Bivariate Lagrange interpolation at the node points of non-degenerate Lissajous curves. 
     Numer. Math. 133, 4 (2016), 685-705
     
