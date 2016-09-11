@@ -74,7 +74,7 @@ For degenerate 2D-Lissajous curves and the parameters n = (k,k+1), n = (k+1,k) t
 interpolation points are exactly the Padua points, see
 
 *   [6] &nbsp; Bos, L., Caliari, M., De Marchi, S., Vianello, M. and Xu, Y. <br>
-    <i> ivariate Lagrange interpolation at the Padua points: the generating curve approach </i> <br>
+    <i> Bivariate Lagrange interpolation at the Padua points: the generating curve approach </i> <br>
     J. Approx. Theory 143 (2006), 15--25 
 
 *   [7] &nbsp; Caliari, M., De Marchi, S. and Vianello, M. <br>
