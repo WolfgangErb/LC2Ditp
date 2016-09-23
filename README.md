@@ -64,7 +64,7 @@ For an application of this code in Magnetic Particle Imaging, see
     <i> Non-Equispaced System Matrix Acquisition for Magnetic Particle Imaging based on Lissajous Node Points </i> <br>
     IEEE Transactions on Medical Imaging (2016), in press, DOI: 10.1109/TMI.2016.2580458 
     
-For an extension of the theory to higher dimensions see
+For an extension of the theory to the general multidimensional case see
 
 *   [5] &nbsp; Dencker, P. and Erb, W. <br>
     <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br>
