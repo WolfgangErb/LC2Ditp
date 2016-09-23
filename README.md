@@ -29,11 +29,11 @@ Citation and Credits
 
 The following people contributed to the development and the theory of this code:
 
-- Wolfgang Erb (Institute of Mathematics, University of Luebeck) in [1,2,3]
+- Wolfgang Erb (Institute of Mathematics, University of Luebeck) in [1,2,3,5]
 - Christian Kaethner (Institute of Medical Engineering, University of Luebeck) in [1,3]
 - Mandy Ahlborg (Institute of Medical Engineering, University of Luebeck) in [1,3]
 - Thorsten M. Buzug (Institute of Medical Engineering, University of Luebeck) in [1]
-- Peter Dencker (Institute of Mathematics, University of Luebeck) in [3]
+- Peter Dencker (Institute of Mathematics, University of Luebeck) in [3,5]
 
 
 For non-degenerate Lissajous curves, the theory and the interpolation scheme were developed in:
