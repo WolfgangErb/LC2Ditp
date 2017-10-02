@@ -1,39 +1,36 @@
-# LS2Ditp
+# LC2Ditp
 Bivariate polynomial interpolation on the node points of Lissajous curves
 --------------------------------------------------------------------------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/testfun1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2Da.jpg" width="350"> 
 
-Version: 0.2 (01.05.2016)
+Version: 0.3 (01.10.2017)
 
-Written by <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
+Written by <a href="http://math.uni-luebeck.de/dencker/index.html"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 
 
 Description
 -----------
 
-The package LS2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
-the node points LS of degenerate and non-degenerate 2D-Lissajous curves. 
-The description of the Lissajous curves, the point sets LS and
-the polynomial interpolation scheme is summarized in the survey article [3]. 
+The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
+general Lissajous-Chebyshev points.
+The description of the point sets LC and the polynomial interpolation scheme is provided in the article [1]. 
 
 The main test file for interpolation is
 main_example.m
 
 For plotting 2D Lissajous curves and the LS points use
-plot_Lissajous.m
+plot_LC2D.m
 
 
 Citation and Credits
 --------------------
 
-The following people contributed to the development and the theory of this code:
+The theory for this code was developed by
 
-- Wolfgang Erb (Institute of Mathematics, University of Luebeck) in [1,2,3,5]
-- Christian Kaethner (Institute of Medical Engineering, University of Luebeck) in [1,3]
-- Mandy Ahlborg (Institute of Medical Engineering, University of Luebeck) in [1,3]
-- Thorsten M. Buzug (Institute of Medical Engineering, University of Luebeck) in [1]
-- Peter Dencker (Institute of Mathematics, University of Luebeck) in [3,5]
+- Peter Dencker (Institute of Mathematics, University of Luebeck) 
+- Wolfgang Erb (Department of Mathematics, University of Hawaii at Manoa) 
+
 
 
 For non-degenerate Lissajous curves, the theory and the interpolation scheme were developed in:
@@ -70,7 +67,7 @@ For an extension of the theory to the general multidimensional case see
     <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br>
     arXiv:1511.04564v1 [math.NA] (2015) 
 
-For degenerate 2D-Lissajous curves and the parameters n = (k,k+1), n = (k+1,k) the implemented
+For the parameters n = (k,k+1), n = (k+1,k) the implemented
 interpolation points are exactly the Padua points, see
 
 *   [6] &nbsp; Bos, L., Caliari, M., De Marchi, S., Vianello, M. and Xu, Y. <br>
@@ -84,12 +81,12 @@ interpolation points are exactly the Padua points, see
 License
 -------
 
-Copyright (C) 2016 Wolfgang Erb
+Copyright (C) 2017 Peter Dencker, Wolfgang Erb
 
-This software was written by Wolfgang Erb 
-and developed at the University of Luebeck.
+This software was written by Peter Dencker and Wolfgang Erb 
+and developed at the University of Luebeck and the University of Hawaii
 
-LS2Ditp is free software: you can redistribute it and/or modify
+LC2Ditp is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
