@@ -1,6 +1,28 @@
-![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
-![equation](http://latex.codecogs.com/gif.latex?s%3D%5Ctext%20%7B%20sensor%20reading%20%7D) 
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
+When <math><mi>a</mi><mo>&#x2260;</mo><mn>0</mn></math>,
+there are two solutions to <math>
+  <mi>a</mi><msup><mi>x</mi><mn>2</mn></msup>
+  <mo>+</mo> <mi>b</mi><mi>x</mi>
+  <mo>+</mo> <mi>c</mi> <mo>=</mo> <mn>0</mn>
+</math> and they are
+<math mode="display">
+  <mi>x</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2212;</mo>
+        <mi>b</mi>
+        <mo>&#x00B1;</mo>
+        <msqrt>
+          <msup><mi>b</mi><mn>2</mn></msup>
+          <mo>&#x2212;</mo>
+          <mn>4</mn><mi>a</mi><mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>.</mtext>
+</math>
 
 # LC2Ditp
 Bivariate polynomial interpolation on the node points of Lissajous curves
