@@ -1,7 +1,6 @@
-> $$a = 2$$
-
 # LC2Ditp
-Bivariate polynomial interpolation on the node points of Lissajous curves
+
+Bivariate polynomial interpolation on general Lissajous-Chebyshev LC^(m)
 --------------------------------------------------------------------------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/testfun1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2Da.jpg" width="350"> 
