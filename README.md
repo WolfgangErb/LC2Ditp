@@ -6,7 +6,7 @@ Bivariate polynomial interpolation on the node points of Lissajous curves
 
 Version: 0.3 (01.10.2017)
 
-Written by <a href="http://math.uni-luebeck.de/dencker/index.html"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
+Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 
 
 Description
