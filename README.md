@@ -22,9 +22,9 @@ The general description of the Lissajous-Chebyshev nodes and the polynomial inte
 
 <br><br>
 
-> To test the package use: main_example.m
+- To **test** the package use **main_example.m**
 
-> To plot the node points and the spectra use: plot_LC2D.m
+- To **plot** the node points and the spectra use **plot_LC2D.m**
 
 <br><br>
 
