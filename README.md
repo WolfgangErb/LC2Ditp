@@ -14,12 +14,14 @@ Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php
 Description
 -----------
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC44.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma44.jpg" width="370"> 
+The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
+general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
 
 <br><br>
 
-The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
-general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC44.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma44.jpg" width="370"> 
+
+<br><br>
 
 The general description of the Lissajous-Chebyshev nodes and the polynomial interpolation is provided in the article [1]. 
 
