@@ -14,8 +14,6 @@ Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php
 Description
 -----------
 
-<br><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC44.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma44.jpg" width="370"> 
 
 <br><br>
