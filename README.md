@@ -37,10 +37,8 @@ the frequency parameter (2m,2m+2p). [6]
 Citation and Credits
 --------------------
 
-The theory for this code was developed by
-
-- Peter Dencker (Institute of Mathematics, University of Luebeck) 
-- Wolfgang Erb (Department of Mathematics, University of Hawaii at Manoa) 
+The theory for this code was developed by Peter Dencker (Institute of Mathematics, University of Luebeck) and Wolfgang Erb (Department of Mathematics, University of Hawaii at Manoa). The theory and the general construction of the interpolation
+scheme is provided in
 
 
 *   [1] &nbsp; Dencker, P. and Erb, W. <br>
@@ -49,7 +47,7 @@ The theory for this code was developed by
 
 
 
-Further special citations
+Further references
 
 *   [2] &nbsp; Bos, L., Caliari, M., De Marchi, S., Vianello, M. and Xu, Y. <br>
     <i> Bivariate Lagrange interpolation at the Padua points: the generating curve approach </i> <br>
