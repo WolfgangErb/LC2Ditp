@@ -1,6 +1,6 @@
 # LC2Ditp
 
-Bivariate polynomial interpolation on general Lissajous-Chebyshev LC^(m)
+Bivariate polynomial interpolation on Lissajous-Chebyshev points
 --------------------------------------------------------------------------------
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/testfun1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Lissajous2Da.jpg" width="350"> 
@@ -14,7 +14,13 @@ Description
 -----------
 
 The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
-general Lissajous-Chebyshev points.
+general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
+
+As special cases it contains the following interpolation schemes:
+
+- The Padua points for the frequency parameters (m+1,m) and (m,m+1) and the shift parameter \kappa = (0,0).
+
+
 The description of the point sets LC and the polynomial interpolation scheme is provided in the article [1]. 
 
 The main test file for interpolation is
