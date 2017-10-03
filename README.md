@@ -10,17 +10,20 @@ Version: 0.3 (01.10.2017)
 Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 
 
+
 Description
 -----------
 
-The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
-general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
-
-The general description of the Lissajous-Chebyshev nodes and the polynomial interpolation is provided in the article [1]. <br><br>
+<br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC44.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma44.jpg" width="370"> 
 
 <br><br>
+
+The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
+general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
+
+The general description of the Lissajous-Chebyshev nodes and the polynomial interpolation is provided in the article [1]. 
 
 - To **test** the package use **main_example.m**
 
