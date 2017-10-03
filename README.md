@@ -16,18 +16,22 @@ Description
 The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
 general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
 
-As special cases it contains the following interpolation schemes:
+The general description of the Lissajous-Chebyshev points and the polynomial interpolation scheme is provided in the article [1]. 
 
-- The Padua points for the frequency parameters (m+1,m) and (m,m+1) and the shift parameter \kappa = (0,0).
-
-
-The description of the point sets LC and the polynomial interpolation scheme is provided in the article [1]. 
-
-The main test file for interpolation is
+The main test file for the interpolation is
 main_example.m
 
-For plotting 2D Lissajous curves and the LS points use
+For plotting the 2D interpolation nodes, the generating curves as well as the corresponding spectral index sets use
 plot_LC2D.m
+
+As special cases it contains the following interpolation schemes:
+
+- The Padua points for the frequency parameters (m+1,m) and (m,m+1) [2,3].
+- The Morrow-Patterson-Xu points for the frequency parameters (m,m) [9].
+- Interpolation schemes based on single degenerate Lissajous curves for 
+the frequency parameter (m,m+p), where m and p are relatively prime [5]. 
+- Interpolation schemes based on single non-degenerate Lissajous curves for 
+the frequency parameter (2m,2m+2p). [6]
 
 
 Citation and Credits
@@ -45,39 +49,41 @@ The theory for this code was developed by
 
 
 
-Older citations
+Further special citations
 
-
-*   [2] &nbsp; Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. <br>
-    <i>Bivariate Lagrange interpolation at the node points of non-degenerate Lissajous curves </i> <br>
-    Numer. Math. 133, 4 (2016), 685-705
-
-*   [3] &nbsp; Erb, W. <br>
-    <i> Bivariate Lagrange interpolation at the node points of Lissajous curves - the degenerate case </i> <br>
-    Appl. Math. Comput. 289 (2016), 409-425
-
-*   [4] &nbsp; Erb, W., Kaethner, C., Dencker, P., and Ahlborg, M. <br>
-    <i> A survey on bivariate Lagrange interpolation on Lissajous nodes </i> <br>
-    Dolomites Research Notes on Approximation 8 (Special issue) (2015), 23-36
-
-*   [5] &nbsp; Kaethner, C., Erb, W., Ahlborg, M., Szwargulski, P., Knopp, T. and Buzug, T. M. <br>
-    <i> Non-Equispaced System Matrix Acquisition for Magnetic Particle Imaging based on Lissajous Node Points </i> <br>
-    IEEE Transactions on Medical Imaging (2016), in press, DOI: 10.1109/TMI.2016.2580458 
-
-*   [6] &nbsp; Dencker, P. and Erb, W. <br>
-    <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br>
-    arXiv:1511.04564v1 [math.NA] (2015) 
-
-For the parameters n = (k,k+1), n = (k+1,k) the implemented
-interpolation points are exactly the Padua points, see
-
-*   [7] &nbsp; Bos, L., Caliari, M., De Marchi, S., Vianello, M. and Xu, Y. <br>
+*   [2] &nbsp; Bos, L., Caliari, M., De Marchi, S., Vianello, M. and Xu, Y. <br>
     <i> Bivariate Lagrange interpolation at the Padua points: the generating curve approach </i> <br>
     J. Approx. Theory 143 (2006), 15--25 
 
-*   [8] &nbsp; Caliari, M., De Marchi, S. and Vianello, M. <br>
+*   [3] &nbsp; Caliari, M., De Marchi, S. and Vianello, M. <br>
     <i> Algorithm 886: Padua2D: Lagrange Interpolation at Padua Points on Bivariate Domains </i> <br>
     ACM Trans. Math. Software 35-3 (2008) 
+
+*   [4] &nbsp; Dencker, P. and Erb, W. <br>
+    <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br>
+    J. Approx. Theory 219 (2017), 15-45
+
+*   [5] &nbsp; Erb, W. <br>
+    <i> Bivariate Lagrange interpolation at the node points of Lissajous curves - the degenerate case </i> <br>
+    Appl. Math. Comput. 289 (2016), 409-425
+    
+*   [6] &nbsp; Erb, W., Kaethner, C., Ahlborg, M. and Buzug, T.M. <br>
+    <i>Bivariate Lagrange interpolation at the node points of non-degenerate Lissajous curves </i> <br>
+    Numer. Math. 133, 4 (2016), 685-705
+
+*   [7] &nbsp; Erb, W., Kaethner, C., Dencker, P., and Ahlborg, M. <br>
+    <i> A survey on bivariate Lagrange interpolation on Lissajous nodes </i> <br>
+    Dolomites Research Notes on Approximation 8 (Special issue) (2015), 23-36
+
+*   [8] &nbsp; Kaethner, C., Erb, W., Ahlborg, M., Szwargulski, P., Knopp, T. and Buzug, T. M. <br>
+    <i> Non-Equispaced System Matrix Acquisition for Magnetic Particle Imaging based on Lissajous Node Points </i> <br>
+    IEEE Transactions on Medical Imaging (2016), in press, DOI: 10.1109/TMI.2016.2580458 
+ 
+*   [9] &nbsp; Xu, Y. <br>
+    <i> Lagrange Interpolation on Chebyshev Points of Two Variables </i> <br>
+    J. Approx. Theory 87 (2) (1996), 220--238
+
+	
 
 License
 -------
