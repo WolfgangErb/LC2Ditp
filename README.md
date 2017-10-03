@@ -37,7 +37,7 @@ the frequency parameter (2m,2m+2p). [6]
 Citation and Credits
 --------------------
 
-The theory for this code was developed by Peter Dencker (Institute of Mathematics, University of Luebeck) and Wolfgang Erb (Department of Mathematics, University of Hawaii at Manoa). The theory and the general construction of the interpolation
+The theory for this code was developed by Peter Dencker (Institute of Mathematics, University of Luebeck) and Wolfgang Erb (Department of Mathematics, University of Hawaii at Manoa). The general construction of the interpolation
 scheme is provided in
 
 
