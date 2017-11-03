@@ -54,7 +54,7 @@ scheme is provided in
 
 *   [1] &nbsp; Dencker, P. and Erb, W. <br>
     <i> A unifying theory for multivariate polynomial interpolation on general Lissajous-Chebyshev nodes </i> <br>
-    arXiv:1711.04564v1 [math.NA] (2017) 
+    arXiv:1711.00557v1  [math.NA] (2017) 
 
 
 
