@@ -5,7 +5,7 @@ Bivariate polynomial interpolation on Lissajous-Chebyshev points
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/2Dpicture1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/2Dpicture2.jpg" width="370"> 
 
-Version: 0.3 (01.10.2017)
+Version: 0.3 (01.10.2016)
 
 Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
 
