@@ -38,7 +38,7 @@ The general description of the Lissajous-Chebyshev nodes and the polynomial inte
 As special cases it contains the following interpolation schemes:
 
 - The Padua points for the frequency parameters (m+1,m) and (m,m+1) [2,3].
-- The Morrow-Patterson-Xu points for the frequency parameters (m,m) [9].
+- The Morrow-Patterson-Xu (MPX) points for the frequency parameters (m,m) [9].
 - Interpolation schemes based on single degenerate Lissajous curves for 
 the frequency parameter (m,m+p), where m and p are relatively prime [5]. 
 - Interpolation schemes based on single non-degenerate Lissajous curves for 
