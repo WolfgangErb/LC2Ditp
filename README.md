@@ -97,7 +97,7 @@ Further references
 License
 -------
 
-Copyright (C) 2017 Peter Dencker, Wolfgang Erb
+Copyright (C) 2016 Peter Dencker, Wolfgang Erb
 
 This software was written by Peter Dencker and Wolfgang Erb 
 and developed at the University of Luebeck and the University of Hawaii
