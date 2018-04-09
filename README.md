@@ -47,7 +47,7 @@ the frequency parameter (2m,2m+2p). [6]
 2D Lissajous apps
 -----------------
 
-There are two Matlab guis and two standalone apps included to further test the interpolation schemes and to display the results.  
+There are two Matlab guis and two standalone apps included to test the interpolation schemes and to display the results.  
 
 - Use the gui **LC2Dfevalapp.m** to **test** the interpolation scheme on several different test functions.
 
