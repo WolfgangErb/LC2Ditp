@@ -57,7 +57,7 @@ The corresponding standalone apps (a Windows and a Linux compilation) can be fou
 
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC2Dfevalapp.jpg" width="370"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <img src="img/LC2Dfevalapp.jpg" width="470"> 
 
 <br><br>
 
