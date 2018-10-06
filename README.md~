@@ -14,7 +14,7 @@ Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php
 Description
 -----------
 
-The package LC2Ditp contains a Matlab and a Python implementation for bivariate polynomial interpolation on 
+The package LC2Ditp contains a Matlab implementation for bivariate polynomial interpolation on 
 general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
 
 <br><br>
@@ -25,9 +25,9 @@ general Lissajous-Chebyshev points. This package syntesizes various interpolatio
 
 The general description of the Lissajous-Chebyshev nodes and the polynomial interpolation is provided in the article [1]. 
 
-- To **test** the package use **example_main.m** or **example_main.py**
+- To **test** the package use **main_example.m**
 
-- To **plot** the node points and the spectra use **plot_LC2D.m** or **plot_LC2D.py**
+- To **plot** the node points and the spectra use **plot_LC2D.m**
 
 <br><br>
 
