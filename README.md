@@ -44,6 +44,24 @@ the frequency parameter (m,m+p), where m and p are relatively prime [5].
 - Interpolation schemes based on single non-degenerate Lissajous curves for 
 the frequency parameter (2m,2m+2p). [6]
 
+Lissajous apps
+-----------------
+
+There are two Matlab guis and two standalone apps included to test the interpolation schemes and to display the results.  
+
+- Use the gui **LC2Dfevalapp.m** to **test** the interpolation scheme on several different test functions.
+
+- Use the gui **LC2Dplotapp.m** to **plot** the LC node points and the corresponding spectral index sets.
+
+The corresponding standalone apps (a Windows and a Linux compilation) can be found in the folder **Lissajousapp**.
+
+<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="img/LC2Dfevalapp.jpg" width="500"> 
+
+<br><br>
+
+
 
 Citation and Credits
 --------------------
