@@ -49,10 +49,6 @@ Lissajous apps
 
 There are two Matlab guis and two standalone apps included to test the interpolation schemes and to display the results.  
 
-http://wolfgangerb.pythonanywhere.com/LC2Dfevalapp
-
-
-
 - Use the gui  **<a href="http://wolfgangerb.pythonanywhere.com/LC2Dfevalapp">LC2Dfevalapp.m</a>** to **test** the interpolation scheme on several different test functions.
 
 - Use the gui **<a href="http://wolfgangerb.pythonanywhere.com/LC2Dplotapp">LC2Dplotapp.m</a>** to **plot** the LC node points and the corresponding spectral index sets.
