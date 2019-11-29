@@ -7,7 +7,7 @@ Bivariate polynomial interpolation on Lissajous-Chebyshev points
 
 Version: 0.3 (01.10.2016)
 
-Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
+Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://www.lissajous.it"> Wolfgang Erb</a>
 
 
 
@@ -49,9 +49,13 @@ Lissajous apps
 
 There are two Matlab guis and two standalone apps included to test the interpolation schemes and to display the results.  
 
-- Use the gui **LC2Dfevalapp.m** to **test** the interpolation scheme on several different test functions.
+http://wolfgangerb.pythonanywhere.com/LC2Dfevalapp
 
-- Use the gui **LC2Dplotapp.m** to **plot** the LC node points and the corresponding spectral index sets.
+
+
+- Use the gui  **<a href="http://wolfgangerb.pythonanywhere.com/LC2Dfevalapp">LC2Dfevalapp.m</a>** to **test** the interpolation scheme on several different test functions.
+
+- Use the gui **<a href="http://wolfgangerb.pythonanywhere.com/LC2Dplotapp">LC2Dplotapp.m</a>** to **plot** the LC node points and the corresponding spectral index sets.
 
 The corresponding standalone apps (a Windows and a Linux compilation) can be found in the folder **Lissajousapp**.
 
