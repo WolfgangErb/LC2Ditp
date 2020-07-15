@@ -71,6 +71,15 @@ def LC2Dcfsfft(m,kappa,G,average):
           R = LC2Dmask(m,kappa,average)
           C = Ghh*Alpha*R
           return C
+
+def LC2Dquad(C, m, LCrange):
+          wx = np.zeros([m[0]+1,1])
+          wy = np.zeros([m[1]+1,1])
+          area = (LCrange[1]-LCrange[0])*(LCrange[3]-LCrange[2])
+          wx[::2] = np.vstack(2/(1 - np.arange(0,m[0]+1,2)**2))
+          wy[::2] = np.vstack(2/(1 - np.arange(0,m[1]+1,2)**2))
+          Qf = np.sum(np.matmul(wx.T,C)*wy.T,1)*area/4
+          return Qf      
       
 def LC2Deval(C, m, x, y, LCrange):
           x,y = norm_range(x,y,LCrange,[-1, 1, -1, 1])

@@ -6,7 +6,7 @@ clear all
 close all
 
 % Parameters 
-m       = [40,40];        % Frequency parameter of LC-points
+m       = [28,29];        % Frequency parameter of LC-points
 kappa   = [0,0];          % Phase shift parameter of LC-points
 
 range   = [0 1 0 1];      % Rectangular range for interpolation
@@ -38,6 +38,9 @@ ylin   = reshape(y,1,Nd^2);
 Sflin = LC2Deval(C,m,xlin,ylin,range);    % Values of the interpolation polynomial
 SfLC  = LC2Deval(C,m,xLC,yLC,range);      % Values of the interpolation polynomial
 Sf    = reshape(Sflin,Nd,Nd);             % Reshaping evaluated points in 2D-matrix
+
+% Evaluation of integral
+Qf    = LC2Dquad(C, m, range);
         
 % Plot of the interpolation polynomial
 
@@ -68,6 +71,7 @@ end
 fprintf('Number of interpolation points      : %23d \n',NoLC);
 fprintf('Maximal error for approximation     : %23.18f \n',maxerror);
 fprintf('Maximal error at LC points          : %23.18f \n\n',maxerrorLC);
+fprintf('Integral of function over range     : %23.18f \n\n',Qf);
         
 
 
