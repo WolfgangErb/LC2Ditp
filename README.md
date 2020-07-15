@@ -3,7 +3,7 @@
 Bivariate polynomial interpolation on Lissajous-Chebyshev points
 --------------------------------------------------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/2Dpicture1.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp; img src="img/2Dpicture2.jpg" width="360"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/2Dpicture1.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="img/2Dpicture2.jpg" width="360"> 
 
 Version: 0.31 (01.07.2020)
 
@@ -14,7 +14,7 @@ Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php
 Description
 -----------
 
-The package LC2Ditp contains a Matlab and a Python implementation for bivariate polynomial interpolation on 
+The package LC2Ditp contains a Matlab and a Python implementation for bivariate polynomial interpolation and quadrature on 
 general Lissajous-Chebyshev points. This package syntesizes various interpolation schemes known in the literature. 
 
 <br><br>
