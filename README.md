@@ -3,9 +3,9 @@
 Bivariate polynomial interpolation on Lissajous-Chebyshev points
 --------------------------------------------------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/2Dpicture1.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/2Dpicture2.jpg" width="370"> 
+&nbsp;&nbsp;&nbsp;&nbsp; img src="img/2Dpicture1.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/2Dpicture2.jpg" width="360"> 
 
-Version: 0.3 (01.10.2016)
+Version: 0.31 (01.07.2020)
 
 Written by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and <a href="http://www.lissajous.it"> Wolfgang Erb</a>
 
@@ -19,7 +19,7 @@ general Lissajous-Chebyshev points. This package syntesizes various interpolatio
 
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC44.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma44.jpg" width="370"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/LC44.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/Gamma44.jpg" width="360"> 
 
 <br><br>
 
@@ -31,7 +31,7 @@ The general description of the Lissajous-Chebyshev nodes and the polynomial inte
 
 <br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/LC54.jpg" width="370"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="img/Gamma54.jpg" width="370"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/LC54.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="img/Gamma54.jpg" width="360"> 
 
 <br><br>
 
