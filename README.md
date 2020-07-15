@@ -3,7 +3,7 @@
 Bivariate polynomial interpolation on Lissajous-Chebyshev points
 --------------------------------------------------------------------------------
 
-&nbsp;&nbsp;&nbsp;&nbsp; img src="img/2Dpicture1.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/2Dpicture2.jpg" width="360"> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/2Dpicture1.jpg" width="360"> &nbsp;&nbsp;&nbsp;&nbsp; img src="img/2Dpicture2.jpg" width="360"> 
 
 Version: 0.31 (01.07.2020)
 
